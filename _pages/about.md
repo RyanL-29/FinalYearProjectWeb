@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About Us
-author: Group 3
-image: assets/images/logo3.png
+author: Leung Yui Chit <br> Project Manager
+image: assets/images/ryan.png
 ---
 
 Hi, everyone! We are Group three! Welcome to our final year project website. We are all studying at UOW and our major is computer science.
