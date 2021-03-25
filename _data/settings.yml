@@ -69,7 +69,7 @@ blurb-btn-name: know more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "In order to give us a better understanding of the use of eClass, we made a questionnaire and received about 80 responses. respondents will rate eClass based on their experience. 1 point is the worst, 5 points are the best. We received 48.6% of respondents rated one point, 29.7% of respondents rated two points, and only 9.2% rated four and five points. It can be seen that most of the respondents are not satisfied with the eClass experience. "
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
