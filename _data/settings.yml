@@ -73,26 +73,26 @@ work-process:
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "This project will use agile for the main methodology of this project development. "
     
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "The Learning Management System (Glossary) principal is serving a well platform for the student and teacher to manage their own learning process."
 
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Leung Yui Chit"
     image : "assets/images/team/member-1.png"
     designation : "Project Manager"
     
-  - title : "Julias Carlie"
+  - title : "Chong Chi Ho"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "UI Designer/Marketing"
     
-  - title : "John Doe"
+  - title : "Kwok Tsz Chung
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "Tester"
     
     
 
