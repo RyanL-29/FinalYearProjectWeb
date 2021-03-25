@@ -82,9 +82,9 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Leung Yui Chit"
+  - title : "Wong Chun Kit"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Programmer"
     
   - title : "Chong Chi Ho"
     image : "assets/images/ivan.jpg"
