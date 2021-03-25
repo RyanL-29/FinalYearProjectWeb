@@ -11,10 +11,10 @@ address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About Us, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: About Us, link: '/FinalYearProjectWeb/about'}
+- {name: Blog, link: '/FinalYearProjectWeb/blog'}
+- {name: Portfolio, link: '/FinalYearProjectWeb/portfolio'}
+- {name: Contact, link: '/FinalYearProjectWeb/contact'}
 
 
 #-------------------------------
