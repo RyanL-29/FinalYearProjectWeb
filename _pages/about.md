@@ -3,7 +3,6 @@ layout: about
 title: About Us
 author: Johnathan Smith
 image: assets/images/logo2.png
-signature: 
 ---
 
 Hi, everyone! We are Group three! Welcome to our final year project website. We are all studying at UOW and our major is computer science.
