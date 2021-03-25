@@ -110,11 +110,11 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: System We Did Before
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Booking System, icon: 'icon-1.png', date: 'Aug 2020 - Dec 2020', organization: 'WEBEX'}
+- {name: E-Conference, icon: 'icon-2.png', date: '', organization: 'AUGMEDIX'}
+- {name: DVD Shop, icon: 'icon-3.png', date: 'Jan 2020 - May 2020', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
