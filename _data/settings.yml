@@ -83,7 +83,7 @@ work-process:
 # My Team Section
 team:
   - title : "Wong Chun Kit"
-    image : "assets/images/team/member-1.png"
+    image : "assets/images/johnny.jpg"
     designation : "Programmer"
     
   - title : "Chong Chi Ho"
