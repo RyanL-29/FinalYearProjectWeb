@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Us
-author: Johnathan Smith
+author: Group 3
 image: assets/images/logo3.png
 ---
 
