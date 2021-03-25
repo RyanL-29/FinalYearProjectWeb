@@ -244,20 +244,20 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
+  - name: "Q4"
     image: "assets/images/testimonial/client-1.png"
     designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content : "In question four, we asked the respondents how often they used eClass, and the results received were quite interesting. 29.7% of people had never used eClass. And 40.5% are seldom used. It shows that there are 70.2% of interviewees are rarely use eClass. Also, this question shows us although eClass is very well-known, its usage rate is extremely low."
     
-  - name: "Jesica Gomez"
+  - name: "Q5"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content: "In question 5, respondents will rate eClass based on their experience. 1 point is the worst, 5 points are the best. We received 48.6% of respondents rated one point, 29.7% of respondents rated two points, and only 9.2% rated four and five points. It can be seen that most of the respondents are not satisfied with the eClass experience."
     
-  - name: "Jesica Gomez"
+  - name: "Q6"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content: "In question 6, the purpose of this question is to investigate the possibility and potential of our project in the Hong Kong market. 78.4% of the respondents said that if a new LMS appeared in the market, they would recommend it to schools. According to data, our project has potential in the Hong Kong market."
 
 
 #-------------------------------
