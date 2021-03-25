@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Final Year Project
-logo: "assets/images/logo2.png"
+logo:
 author: themefisher
 description: this is meta description
 email: steve.fruits@email.com
