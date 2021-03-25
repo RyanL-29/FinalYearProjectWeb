@@ -134,21 +134,21 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Student,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Student can View course description, instructor information, course content, Grades, Download Document file, Upload homework file, Search Course, Join Class',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Teacher,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Teacher can Create Courses, Lessons, homework, Upload document file, Evaluate homework, Mark homework, Download homework file, Edit personal file',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Parents,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Parents can View their children course description, instructor information, course content,  Grades',
     active: # Add true to select section
   }
 
