@@ -52,11 +52,8 @@ social:
 
 # About Section
 blurb:
- A long time ago, we lacked tools or software to help us manage large amounts of data. However, today we have various tools to help us. For example, a learning management system (LMS). Nowadays, many universities are using LMS to manage students. Unlike secondary schools, using Excel or paper to record student information, including their personal information, grades, etc. <br>
- As mentioned above, almost all universities are using LMS to manage students. In the market, there are thousands of LMS for universities to use, such as Blackboard, Google Class, Canvas, Moodle, etc. But in Hong Kong middle schools, lack this kind of system. Unlike Canvas, our LMS is mainly aimed at secondary schools, while the target market for the aforementioned LMS is universities. We all know how COVID-19 affects our lives. The middle school forced to abandon the old management methods. After the study, most middle schools will choose to use Google Classroom to help them provide classroom materials online and manage students. <br>
- However, Our project is different from those LMS mentioned. The target market for this project is secondary schools. Our project may provide a role for parents to login and review their kids’ result and assignment. <br>
- Therefore, in this project, we hope to design a learning management system to provide more choices for secondary schools in Hong Kong.
-
+    Hi, everyone! We are Group three! Welcome to our final year project website. We are all studying at UOW and our major is computer science. This section will introduce ourselves to you!<br>
+    
 
 blurb-btn-link: '/FinalYearProjectWeb/about'
 blurb-btn-name: know more
