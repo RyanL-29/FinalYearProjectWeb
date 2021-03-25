@@ -1,18 +1,17 @@
 ---
 layout: about
-title: About Me
+title: About Us
 author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+image: assets/images/logo2.png
+signature: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Hi, everyone! We are Group three! Welcome to our final year project website. We are all studying at UOW and our major is computer science.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+We are a team that full of passion. We always concern the news abour Hong Kong
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+As far as we know, secondary students are all using an LMS called E-Class. And the most of the comments we received were negative.
+
+Therefore, Our final year project are going to make a LMS for secondary student
+
+Click the button right below to know more about us!
